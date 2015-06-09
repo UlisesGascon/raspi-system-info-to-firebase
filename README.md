@@ -1,4 +1,4 @@
-# raspberrypi-system-info-data-to-firebase
+# Raspberrypi system info data to Firebase
 Send the system info (cpu usage, temperature, kernel version, etc..) from any linux based system like Raspberry Pi, Ubuntu... to firebase. Realtime nodejs script
 
 ## Thanks to 
