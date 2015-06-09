@@ -5,7 +5,8 @@ Send the system info (cpu usage, temperature, kernel version, etc..) from any li
 [Mario Pérez Esteso](https://twitter.com/_mario_perez) from [GeekyTheory](https://geekytheory.com). He developed the script [Raspberry Pi Status](https://github.com/GeekyTheory/Raspberry-Pi-Status) . I used that repository as the base for this one.
 
 ## Screenshot
-xxx
+
+![Screenshot](https://pbs.twimg.com/media/CHDy6QVW8AA1ug7.png:large)
 
 ## Installation
 I asumed that you have installed nodejs, npm and git.
