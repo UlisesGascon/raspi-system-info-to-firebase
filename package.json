@@ -7,8 +7,8 @@
   "author": "Ulises Gascon",
   "dependencies": {
     "child_process": "*",
-    "firebase": "^2.2.6",
+    "firebase": "2.2.6",
     "fs": "0.0.2",
-    "util": "^0.10.3"
+    "util": "0.10.3"
   }
 }
