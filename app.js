@@ -7,7 +7,7 @@ var exec = require('child_process').exec, child, child1;
 
 
 /*YOUR SETTINGS!*/
-var firebasePath = "hhttps://<YOUR-FIREBASE-APP>.firebaseio.com"; // Your FirebaseURL.
+var firebasePath = "https://test-only-f4216-default-rtdb.firebaseio.com/"; // Your FirebaseURL.
 var fastTime = 5000; // Time used to check the memory buffered and CPU Temp. 
 var customTime = 60000; // Time used to check the uptime.
 var slowTime = 10000; // Time used to check the top list and CPU usage.
